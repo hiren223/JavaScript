@@ -33,30 +33,16 @@ const temperature = 41
 //     console.log("less than 1200");
 // }
 
-// const userloggedin =true
-// const debitecard =false
-// const loggedinFromgoogle = false
-// const loggedinFromemail = true
+const userloggedin =true
+const debitecard =false
+const loggedinFromgoogle = false
+const loggedinFromemail = true
 
-// if (userloggedin && debitecard) {
-//     console.log("Allow to buy course");  
-// }
+if (userloggedin && debitecard) {
+    console.log("Allow to buy course");  
+}
 
-// if (loggedinFromgoogle || loggedinFromemail) {
-//     console.log("User logged in");
+if (loggedinFromgoogle || loggedinFromemail) {
+    console.log("User logged in");
     
-// }
-
-
-// switch case
-
-// switch (key) {
-//     case value:
-        
-//         break;
-
-//     default:
-//         break;
-// }  // syntax 
-
-
+}

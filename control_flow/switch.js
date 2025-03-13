@@ -1,3 +1,15 @@
+// switch case
+
+// switch (key) {
+//     case value:
+        
+//         break;
+
+//     default:
+//         break;
+// }  // syntax 
+
+
 const month =3
 
 switch (month) {
